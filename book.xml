@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book id="0001"> 
+    <title>Book1</title>
+    <author>Camille</author>
+    <price>66.6</price>
+  </book>
+  <book id="0002"> 
+    <title>Book2</title>
+    <author>Jakson</author>
+    <price>88.8</price>
+  </book>
+  <book id="0003"> 
+    <title>Book3</title>
+    <author>Christian</author>
+    <price>55.5</price>
+  </book>
+  <book id="0004"> 
+    <title>Book4</title>
+    <author>Leo</author>
+    <price>33.3</price>
+  </book>
+</books>
